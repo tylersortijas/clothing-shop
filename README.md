@@ -6,7 +6,7 @@
 ![React App](https://github.com/tylersortijas/clothing-shop/assets/96886636/8f3cff3f-4431-4e0f-9992-effe40c89ff1)
 
 
-Getting Started
+# Getting Started
 ```
 git clone https://github.com/tylersortijas/clothing-shop.git
 cd clothing-shop
@@ -17,7 +17,7 @@ npm start
 An ecommerce shop that uses the fake store API to pull product data. It's filtered to only show Men's and Women's clothing. It has a responsive design, created with tailwind. 
 With React I separated the data between product, sidebar, and cart data. Which is then used in conjunction with the components, home, and product page to display information seamlessly all across.
 
-#Built-With
+# Built-With
 - React
 - React Router
 - Fake Store API
